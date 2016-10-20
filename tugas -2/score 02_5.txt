@@ -1,0 +1,3 @@
++10 untuk tugas siap
++5 untuk 5 tambahan lagu setelah 5 lagu pertama
+-10 untuk setiap penggunaan opsi tag kecuali <img>.<a>
