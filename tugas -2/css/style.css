@@ -1,25 +1,55 @@
-body
-{
-background-color: #00FF00;
+body{
+	background: url("gambar bacgroud css/CSS.jpg") no-repeat fixed;
+	text-align: comic sans ms;
 }
 
-img
-{
+img{
 	width: 400px;
 }
 
-h1
-{
-	color: #ff0000;
-	font-weight: bold;
-	font-size: 48px;
-	font-family: verdana;
+h1{
+	color: red\;
+	font: 35px garamond bold;
 }
 
-.judulutama
-{
-	color: #ff00ff;
-	font-weight: bold;
-	font-size: 36px;
-	font-family: verdana;
+.judulutama{
+	color: #CC00CC;
+	font: 40px  handwriting;
+	text-align: left;
+}
+
+.linkkembali{
+	font: 30px bold;
+	padding: 15px 25px;
+	background-color: #CCFF33;
+	display: inline-block;
+}
+
+
+p{
+	color: #CC0000;
+	font: 30px trebuchet ms;
+}
+
+ol{
+	color: #CC0000;
+	margin-left: 30px;
+	text-align: left;
+	font: 35px comic sans ms;
+}
+
+
+/*Link yg blm di-kunjungi, dan masih AKTIF*/
+a:link, a:active{
+	color: #3300CC;
+}
+
+/*Link yg sdh di-kunjungi, TDK AKTIF*/
+a:visited{
+	color: #330066;
+}
+
+/*Link yg ganti warna saat pointer-mouse diarahkan*/
+a:hover{
+	color: #6600FF;
 }
