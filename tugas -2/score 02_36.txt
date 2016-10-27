@@ -1,0 +1,18 @@
+score untuk tugas 2
+
++10 untuk Tugas siap
++5 untuk 5 lagu tambahan
+-10 untuk height dan width
+
+Total = 5 poin
+
+
+score untuk tugas 2.2
+
++10 untuk tugas yang dikerjakan
+
+-1 untuk setting penggunaan nama warna (pada bagian css = h1)
+
++22 untuk setiap penggunaan class yang berulang (class="link kembali")
+
+jumlah score gabungan dari tugas 2 dan tugas 2.2 = 31+5 = 36
